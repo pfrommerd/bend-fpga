@@ -1,0 +1,3 @@
+[submodule "vendor/cis371-lab3"]
+	path = vendor/cis371-lab3
+	url = https://github.com/pfrommerd/cis371-lab3.git
